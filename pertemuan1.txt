@@ -1,0 +1,15 @@
+MVC Model-View-Controller
+    Pengertian
+        Sebuah pola arsitektur pada perancangan perangkat lunak berorientasi objek yang bertujuan untuk memisahkan antara tampilan, data, dan proses
+
+    Penjelasan singkat dari MVC
+        Model = data
+        View = tampilan
+        Controller = proses
+
+    Kenapa menggunakan MVC
+    - Organisasi dan struktur kode
+    - Pemisahan logic dan tampilan
+    - Mempermudah perawatan kode (maintenance)
+    - Implementasi konsep OOP yang sudah dipelajari
+    - Digunakan oleh banyak framework
